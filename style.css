@@ -1,0 +1,88 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+body {
+    background-color: powderblue;
+    text-align: center;
+    color: #1a2849;
+}
+ .the-man {
+     max-width: 100%;
+    width: 300px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.brain {
+    max-width: 100%;
+    width: 100px;
+    position: relative;
+    bottom: 300px;
+    left: 300px;
+}
+
+.heart {
+    max-width: 100%;
+    width: 100px;
+    position: relative;
+    bottom: 300px;
+    right: 300px;
+}
+
+.div1 {
+    text-align: center;
+
+}
+h1 {
+    font-family: 'Lobster', cursive;
+}
+h2 {
+    padding: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+.edu {
+    width: 100px;
+    float: left;
+    margin-right: 50px;
+}
+
+.ski {
+    width: 100px;
+    float: left;
+    margin-right: 50px;
+}
+
+.hob {
+    width: 100px;
+    float: left;
+    margin-right: 50px;
+}
+
+.contact {
+    width: 100px;
+}
+
+.div2 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2em;
+}
+
+.div3 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2em;
+}
+
+.div4 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2em;
+}
